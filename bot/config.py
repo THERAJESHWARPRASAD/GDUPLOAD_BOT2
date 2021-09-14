@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "1982149371:AAGSv-yTIvxtrNfeWS-Sb2Y9Yylq7WoLRVE"
+    APP_ID = "1632183"
+    API_HASH = "91d43947d1b905b0c46cda7eac366398"
+    DATABASE_URL = "mongodb+srv://RAJ:Rajeshwar@70@cluster0.bbpe2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    SUDO_USERS = "879416858" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
-    SUPPORT_CHAT_LINK = ""
+    G_DRIVE_CLIENT_ID = "1022383487146-0a941vkl4du72vd3ki8mubbid06ogijh.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "SuI0sf0tBlHOXaQrUQtFur4P"
+    SUPPORT_CHAT_LINK = "http://t.me/gdriveuploadermodbot"
 
 
 class BotCommands:
